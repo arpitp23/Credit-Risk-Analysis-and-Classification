@@ -130,4 +130,3 @@ Generated evaluation results and visualizations are saved in the `outputs/` dire
 - Threshold analysis used the held-out test set for exploratory comparison; future work should select thresholds using validation data and reserve a separate final test set.
 - Future improvements include cross-validation, probability calibration, model interpretability, fairness assessment, and temporal model monitoring.
 - The model is intended for educational analysis and should not be used for real lending decisions.
-
